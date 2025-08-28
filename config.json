@@ -1,0 +1,5 @@
+{
+    "gemini_api_key": " gemini api key 입력 ",
+    "translation_duration_seconds": 10,
+    "show_translation_hotkey": "`"
+}
