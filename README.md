@@ -16,7 +16,6 @@ pip install pyautogui pyperclip keyboard pillow pytesseract google-generativeai
     - Gemini api key
     - 번역 결과 창 유지 시간
     - 번역 단축키
-- python "~\Translator-EngToKr.py" 로 실행
 - 번역할 영역 지정 후 지정한 번역 단축키를 통해 번역 실행
 - 번역 창 위치와 크기 조정 후 사용
   
